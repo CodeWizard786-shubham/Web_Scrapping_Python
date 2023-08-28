@@ -1,0 +1,8 @@
+2023-08-25 17:59:24,378 -main.py [INFO] Scraping using Beautiful Soup Started...
+2023-08-25 17:59:24,379 -bs4_scraping.py [ERROR] [Errno 2] No such file or directory: 'records/shiksha_records.csv'
+2023-08-25 18:01:09,827 -main.py [INFO] Scraping using Beautiful Soup Started...
+2023-08-25 19:29:47,672 -bs4_scraping.py [ERROR] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2023-08-25 19:29:47,934 -bs4_scraping.py [ERROR] 'NoneType' object has no attribute 'content'
+2023-08-25 19:29:47,938 -main.py [INFO] Scraping finished
+2023-08-25 19:29:47,938 -store_records_in_hadoop.py [INFO] Loding data in hadoop started..
+2023-08-25 19:30:30,532 -store_records_in_hadoop.py [INFO] scraped data Sucessfully loaded in Hadoop
